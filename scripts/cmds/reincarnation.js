@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "reincarnation",
 		version: "1.1",
-		author: "NTKhang",
+		author: "chris st",
 		countDown: 5,
 		role: 2,
 		description: {
