@@ -40,7 +40,7 @@
 <div align="center">
 
 <a href="https://www.facebook.com/profile.php?id=100094118835962">
-  <img src="https://img.shields.io/badge/-Facebook%20%7C%20Azadx69x-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Facebook%20%7C%20Chris_st-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Christstars897876/Minato-Namikaze">
