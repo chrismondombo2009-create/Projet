@@ -44,7 +44,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/Christstars897876/Minato-Namikaze">
-  <img src="https://img.shields.io/badge/-GitHub%20%7C%20ncazad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub%20%7C%20chris_st-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Christstars897876/Minato-Namikaze/issues">
