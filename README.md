@@ -48,7 +48,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/Christstars897876/Minato-Namikaze/issues">
-  <img src="https://img.shields.io/badge/-Report%20a%20Bug-FF4444?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Report%20a%20Minato-FF4444?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
